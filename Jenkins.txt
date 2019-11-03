@@ -6,3 +6,8 @@ java -version
 yum install git -y
 git -version
 yum install -y wget
+hello world
+git status
+git add README.md
+git commit -m "reason"
+git push
