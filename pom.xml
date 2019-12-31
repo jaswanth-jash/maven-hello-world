@@ -11,6 +11,10 @@
   <properties>
       <!-- This property will be set by the Maven Dependency plugin -->
       <annotatedJdk>${org.checkerframework:jdk8:jar}</annotatedJdk>
+      <sonar.projectKey>jaswanth-jash_maven-hello-world</sonar.projectKey>
+      <sonar.organization>jaswanth-jash</sonar.organization>
+      <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+      <sonar.login>41e2e135487a5201cb0d0655589e18f8571fab02</sonar.login>
   </properties>
 
   <dependencies>
