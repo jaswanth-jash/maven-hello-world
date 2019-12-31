@@ -9,7 +9,13 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "welcome to my  World!" );
-
+        int a;
+        int a;
+        int a;
+        int a;
+        int a;
+        int a;
+        int b=a/0;
         System.out.println("A NullPointerException is a drag...");
         Object myObject = null;
         /**
